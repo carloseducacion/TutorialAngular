@@ -1,0 +1,16 @@
+{
+	"contactos": [
+		{
+			"nombre":"Carlos",
+			"telefono":"123"
+		},
+		{
+			"nombre":"Eva",
+			"telefono":"678"
+		},
+		{
+			"nombre":"Leonor",
+			"telefono":"000"
+		}
+	]
+}
